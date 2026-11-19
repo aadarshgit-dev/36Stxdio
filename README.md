@@ -4,6 +4,10 @@ An immersive, animation-driven creative studio website focused on interactive vi
 
 36Stxdio explores modern frontend animation techniques through GSAP-powered interactions, canvas-based image sequences, and smooth scrolling to create an engaging digital experience.
 
+## 🌐 Live Demo
+
+**[Visit 36Stxdio](https://36stxdio.netlify.app/)**
+
 ## ✨ Features
 
 - **Interactive Animations:** Smooth and engaging animations powered by GSAP.
@@ -83,4 +87,3 @@ The goal of 36Stxdio is to explore creative frontend development by combining mo
 ---
 
 *Built with creativity, code, and a passion for interactive web experiences.*
-
